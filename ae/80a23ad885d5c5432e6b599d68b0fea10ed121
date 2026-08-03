@@ -1,0 +1,39 @@
+src/packages/input/demo.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 20,27,45,95-96
+src/packages/input/demos/taro/demo16.tsx
+  s_8fe1f352e7f1ae::t_01f535c5be5a95 9,15
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 1-8,10-14,16-23
+src/packages/input/demo.taro.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 22,29,66,113-114
+src/packages/input/demos/h5/demo16.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 1-8,10-14,16-23
+  s_8fe1f352e7f1ae::t_01f535c5be5a95 9,15
+src/packages/input/input.tsx
+  s_8fe1f352e7f1ae::t_37931e87a37d2d 201-211
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 28,57,194-200,212
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_98ee6a23afd814 159-186,188-190,193-198
+  s_8fe1f352e7f1ae::t_49d31468793c50 187,191-192
+src/packages/input/input.taro.tsx
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 44,67,225-245
+src/types/spec/input/base.ts
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 23
+src/packages/input/input.scss
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 29-41,65,73-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "ae80a23ad885d5c5432e6b599d68b0fea10ed121",
+  "prompts": {},
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
