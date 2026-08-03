@@ -1,0 +1,25 @@
+src/packages/input/__test__/input.style.spec.ts
+  s_8fe1f352e7f1ae::t_2f5feb2b092709 13
+  s_8fe1f352e7f1ae::t_3cabe7997b3a56 1-12,14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d95f8888c952de1a2baf351a087fbe2647c89c8b",
+  "prompts": {},
+  "humans": {
+    "h_be570c761d8baa": {
+      "author": "yangbintie.1 <yangbintie.1@jd.com>"
+    }
+  },
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
