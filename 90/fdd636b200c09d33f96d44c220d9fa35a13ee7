@@ -1,0 +1,30 @@
+src/packages/input/input.taro.tsx
+  s_8fe1f352e7f1ae::t_3778384350b551 44,66,201-212,214-225
+src/packages/input/input.scss
+  s_8fe1f352e7f1ae::t_3778384350b551 4,7,11-20
+src/types/spec/input/base.ts
+  s_8fe1f352e7f1ae::t_3778384350b551 8-11,23
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_7c0312b4f7d4d4 143-148,150
+  s_8fe1f352e7f1ae::t_b5d1cf953568ec 141-142,149
+src/packages/input/input.tsx
+  s_8fe1f352e7f1ae::t_3778384350b551 28,56,163-185,187-195
+src/packages/formitem/formitem.scss
+  s_8fe1f352e7f1ae::t_3778384350b551 57-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "90fdd636b200c09d33f96d44c220d9fa35a13ee7",
+  "prompts": {},
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
