@@ -1,0 +1,54 @@
+src/packages/input/demo.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 20,27,45,95-96
+src/packages/input/demos/taro/demo16.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 1-8,10-14,16-23
+  s_8fe1f352e7f1ae::t_01f535c5be5a95 9
+  h_f6446f4db74ffc 15
+src/packages/input/input.taro.tsx
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 44,67,225-245
+src/packages/input/input.scss
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 29-33,35-37,40-41
+  h_f6446f4db74ffc 38-39
+  s_8fe1f352e7f1ae::t_4be09e2718e963 65,73-75
+  s_8fe1f352e7f1ae::t_ec6871b632da20 76
+  s_8fe1f352e7f1ae::t_1ed19093730518 34
+  s_8fe1f352e7f1ae::t_5dc512bd1d1b1b 77-81
+src/types/spec/input/base.ts
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 23
+src/packages/input/demo.taro.tsx
+  h_f6446f4db74ffc 22,29,66,139-140
+src/packages/input/input.tsx
+  s_8fe1f352e7f1ae::t_104d2dc886cf73 28,57,194-200,212
+  s_8fe1f352e7f1ae::t_37931e87a37d2d 201-211
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_98ee6a23afd814 159-174,176-183,188-190,197-198
+  s_8fe1f352e7f1ae::t_49d31468793c50 187,191-192
+  s_8fe1f352e7f1ae::t_fed5223ae3615a 205
+  s_8fe1f352e7f1ae::t_be4df0bc26ab84 199-204,206-212
+  s_8fe1f352e7f1ae::t_9c5b4eacc83a31 175,184-186,193-196
+src/packages/input/demos/h5/demo16.tsx
+  s_8fe1f352e7f1ae::t_0e4d4ffefd25b9 1-8,10-14,16,18-23
+  s_8fe1f352e7f1ae::t_01f535c5be5a95 9,15
+  h_f6446f4db74ffc 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9797a60870b84a147c4f5a15cfa1337bcf6bf510",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
