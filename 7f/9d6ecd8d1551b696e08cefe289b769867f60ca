@@ -1,0 +1,32 @@
+src/packages/input/input.taro.tsx
+  s_8fe1f352e7f1ae::t_60fa75995e4c34 114-117,138,202,219,231
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_a9f3018b838c04 79-82,84-87,89-93,97-102,106-107,259-275
+  s_8fe1f352e7f1ae::t_e4e9246ba2ad27 88
+src/packages/input/input.scss
+  h_f6446f4db74ffc 94-95,98-99,111
+  s_8fe1f352e7f1ae::t_60fa75995e4c34 100-104,112-117
+src/packages/input/input.tsx
+  s_8fe1f352e7f1ae::t_60fa75995e4c34 91-93,165,200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "7f9d6ecd8d1551b696e08cefe289b769867f60ca",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
