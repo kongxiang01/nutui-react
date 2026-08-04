@@ -1,0 +1,43 @@
+src/packages/input/input.scss
+  s_8fe1f352e7f1ae::t_69a478081b2faf 42-44,46-49,51
+  s_8fe1f352e7f1ae::t_b1b1a961b097ee 45
+src/styles/variables-daojia.scss
+  s_8fe1f352e7f1ae::t_b1b1a961b097ee 474-475,477,1736
+  s_8fe1f352e7f1ae::t_4336f9e99c7e18 476
+src/styles/variables-jmapp.scss
+  s_8fe1f352e7f1ae::t_b1b1a961b097ee 743-744,746
+  s_8fe1f352e7f1ae::t_69a478081b2faf 749
+  s_8fe1f352e7f1ae::t_4336f9e99c7e18 745
+src/styles/variables.scss
+  s_8fe1f352e7f1ae::t_4336f9e99c7e18 749
+  s_8fe1f352e7f1ae::t_b1b1a961b097ee 747-748,750
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_8c5f89b2379647 251,260-278,281
+  s_8fe1f352e7f1ae::t_706600fadfd2a8 235
+  s_8fe1f352e7f1ae::t_3a216b100673fb 279-280
+  s_8fe1f352e7f1ae::t_33def77f2b0ac5 229-234,236-250,252-259,282-283
+src/styles/variables-jrkf.scss
+  s_8fe1f352e7f1ae::t_b1b1a961b097ee 823-824,826
+  s_8fe1f352e7f1ae::t_4336f9e99c7e18 825
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "3dd6e0ab5843cd80061bbffbb2e79ac25ab539c0",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
