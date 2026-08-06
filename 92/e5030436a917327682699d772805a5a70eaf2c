@@ -1,0 +1,26 @@
+src/styles/variables-daojia.scss
+  s_734599de1f3a8d::t_18954b8e0a97a0 409
+  s_734599de1f3a8d::t_0671cd02ec0821 675-676
+  s_734599de1f3a8d::t_0ef6a3f14a851c 403-408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "92e5030436a917327682699d772805a5a70eaf2c",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_734599de1f3a8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b9814533-aa18-4196-8da1-4e85c0cc1db3",
+        "model": "glm-5.2"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
