@@ -1,0 +1,59 @@
+src/packages/input/input.taro.tsx
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 49,75,136,141
+src/packages/input/demos/h5/demo17.tsx
+  s_8fe1f352e7f1ae::t_eff7bcd45ef302 1-2,5-7,10-25,27-28,30,32,35
+  s_8fe1f352e7f1ae::t_ff182fc84030a9 3-4,8-9,26,29,31,33-34,36-41
+src/styles/variables-jrkf.scss
+  s_8fe1f352e7f1ae::t_37fae4e117d249 62,824
+src/packages/input/__test__/input.spec.tsx
+  s_8fe1f352e7f1ae::t_4b000c3be9da43 6,161-193,195-200,202-213,215-216,218,239
+  s_8fe1f352e7f1ae::t_1abb9b4e0cbb75 201,214,217,219-238
+  s_8fe1f352e7f1ae::t_57ec19112708d5 194
+src/packages/input/input.scss
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 70-75,77-78
+  h_f6446f4db74ffc 76
+src/styles/variables-jmapp.scss
+  s_8fe1f352e7f1ae::t_37fae4e117d249 54,744
+src/packages/input/demo.tsx
+  s_8fe1f352e7f1ae::t_ff182fc84030a9 21,100-101
+  h_f6446f4db74ffc 40-42,59-61
+src/packages/input/index.ts
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 8
+src/packages/input/demo.taro.tsx
+  s_8fe1f352e7f1ae::t_ff182fc84030a9 23,144-145
+  h_f6446f4db74ffc 61-63,99-101
+src/packages/input/demos/taro/demo17.tsx
+  s_8fe1f352e7f1ae::t_ff182fc84030a9 3-4,8-9,26,29,31,33-34,36-41
+  s_8fe1f352e7f1ae::t_eff7bcd45ef302 1-2,5-7,10-25,27-28,30,32,35
+src/styles/variables.scss
+  h_f6446f4db74ffc 112,748
+src/types/spec/input/base.ts
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 7,30
+src/packages/input/input.tsx
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 33,72,108,113
+src/packages/input/index.taro.ts
+  s_8fe1f352e7f1ae::t_f2f8f3d34d97e9 8
+src/styles/variables-daojia.scss
+  h_f6446f4db74ffc 65,482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "f32ff51817638ca7fe1e5f695b5e50b66a459e8b",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_8fe1f352e7f1ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb741-4203-7db0-acba-3be5c673bba8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
