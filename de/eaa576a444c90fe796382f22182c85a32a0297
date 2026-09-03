@@ -1,0 +1,14 @@
+src/styles/theme-default.scss
+  h_f6446f4db74ffc 254
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "deeaa576a444c90fe796382f22182c85a32a0297",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
