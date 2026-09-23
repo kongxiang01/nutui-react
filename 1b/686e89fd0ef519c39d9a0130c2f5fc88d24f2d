@@ -1,0 +1,70 @@
+src/packages/textarea/textarea.taro.tsx
+  s_0d5e4942af6350::t_b0a25da1497da2 52,55,61,130,139
+src/packages/textarea/demos/taro/demo3.tsx
+  s_0d5e4942af6350::t_b0a25da1497da2 5-11
+src/styles/variables-jmapp.scss
+  s_625306c43a65f2::t_aadf3653a5ce6d 782
+  s_0d5e4942af6350::t_b0a25da1497da2 780,783
+  h_f6446f4db74ffc 781
+src/packages/textarea/textarea.scss
+  s_0d5e4942af6350::t_b0a25da1497da2 46-48
+src/styles/variables-jrkf.scss
+  s_0d5e4942af6350::t_b0a25da1497da2 860-861,863
+  s_625306c43a65f2::t_2d71f212e0b822 862
+src/packages/textarea/doc.taro.md
+  s_625306c43a65f2::t_be4b4025083bd3 123
+  s_0d5e4942af6350::t_b0a25da1497da2 3,86
+src/styles/variables.scss
+  s_625306c43a65f2::t_dbfb1bc3a23945 787
+  s_0d5e4942af6350::t_b0a25da1497da2 785-786,788
+src/packages/textarea/textarea.tsx
+  s_0d5e4942af6350::t_b0a25da1497da2 66,69,87,150
+src/styles/variables-daojia.scss
+  s_625306c43a65f2::t_49a97c568ec4cd 507
+  s_0d5e4942af6350::t_b0a25da1497da2 506
+src/packages/textarea/doc.zh-TW.md
+  s_0d5e4942af6350::t_b0a25da1497da2 3,85
+  s_625306c43a65f2::t_9dcdb0c40233ae 122
+src/packages/textarea/demos/h5/demo3.tsx
+  s_0d5e4942af6350::t_b0a25da1497da2 5-11
+src/packages/textarea/doc.en-US.md
+  s_0d5e4942af6350::t_b0a25da1497da2 3,86
+  s_625306c43a65f2::t_e3665a07d9f44e 123
+src/packages/textarea/doc.md
+  s_0d5e4942af6350::t_b0a25da1497da2 3,86
+  s_625306c43a65f2::t_f8b47bd12ee76e 123
+src/packages/textarea/__test__/textarea.spec.tsx
+  s_0d5e4942af6350::t_5f8da3804467c4 58-60
+  s_0d5e4942af6350::t_523a4f78a2865d 108-109,115-158,160
+  s_625306c43a65f2::t_17e3da31aab05e 110
+  s_0d5e4942af6350::t_1acdb5a5a66e94 159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "1b686e89fd0ef519c39d9a0130c2f5fc88d24f2d",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_0d5e4942af6350": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0aef5-e367-7860-81cc-e8f0c872c8b1",
+        "model": "GPT-5.6-Sol-joybuilder"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    },
+    "s_625306c43a65f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78eb1e4f-6bd6-4111-a2bc-c5880e4f234e",
+        "model": "GLM-5.3-Local-joybuilder"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
