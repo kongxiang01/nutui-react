@@ -1,0 +1,101 @@
+src/packages/textarea/textarea.taro.tsx
+  s_625306c43a65f2::t_da213e62ef6776 156
+  s_625306c43a65f2::t_16ac7f4a444928 21
+  s_625306c43a65f2::t_601310359628aa 86-88
+  s_625306c43a65f2::t_00818a7277869a 40
+  s_625306c43a65f2::t_f012ecda7dd98c 157-158
+  s_e2f8d64efa884c::t_1c8d36ae83632f 122-126
+src/packages/textarea/doc.md
+  s_e2f8d64efa884c::t_5f58e2371cf55d 98,135
+  s_625306c43a65f2::t_66cb844d75ff2a 77-84
+  s_625306c43a65f2::t_eee972890d4315 133
+  s_625306c43a65f2::t_8ee50abc7e0fd8 103
+src/types/spec/textarea/base.ts
+  s_625306c43a65f2::t_78134bfa246ccf 1,5,20-21
+src/packages/textarea/doc.zh-TW.md
+  s_625306c43a65f2::t_28cb5071a9b203 76-83
+  s_e2f8d64efa884c::t_2a243476313c4c 97,134
+  s_625306c43a65f2::t_b02028a59317d2 132
+  s_625306c43a65f2::t_980849dff86d38 102
+src/styles/variables-jmapp.scss
+  s_625306c43a65f2::t_0b29d4e025b17d 784-787
+src/styles/variables-jrkf.scss
+  s_625306c43a65f2::t_8532a53d809ebd 864-867
+src/packages/textarea/doc.en-US.md
+  s_625306c43a65f2::t_ed6378e71bf405 103
+  s_625306c43a65f2::t_866abcf7fbf63a 77-84
+  s_e2f8d64efa884c::t_2a243476313c4c 98,135
+  s_625306c43a65f2::t_0174791cba577d 133
+src/packages/textarea/__test__/textarea.spec.tsx
+  s_625306c43a65f2::t_30b67ffccea1c0 242
+  s_e2f8d64efa884c::t_4718789a38eabc 313-315
+  s_625306c43a65f2::t_42afcba378c8e6 296
+  s_625306c43a65f2::t_476994103f552f 327
+  s_625306c43a65f2::t_68c79ea8f72066 208
+  s_e2f8d64efa884c::t_cfc683e6840608 8,269-273,275-285,288-295,297-312,316-319
+  s_625306c43a65f2::t_038a85a5c176a3 165,167-170,177,179-194,196-204,206-207,209-217,219-241,243-251,254-268,320-326,328-330
+  s_625306c43a65f2::t_6be6f6d1571311 205
+  s_625306c43a65f2::t_09c60cc49dc273 164,166,171-176,178,195
+  s_625306c43a65f2::t_a363799f40ee36 218
+  s_625306c43a65f2::t_e6d65ef965ecc5 252-253
+  s_e2f8d64efa884c::t_4e746b950023a4 274,286-287
+src/packages/textarea/demos/taro/demo9.tsx
+  s_625306c43a65f2::t_4cb21800b7e892 2,5-21
+src/styles/variables-daojia.scss
+  s_625306c43a65f2::t_333bb193d79c58 508-509
+src/packages/textarea/textarea.scss
+  h_f6446f4db74ffc 67
+  s_625306c43a65f2::t_8edf68b8364499 35-38
+  s_625306c43a65f2::t_e00dd4ccd05624 42
+  s_e2f8d64efa884c::t_1c8d36ae83632f 102-110
+  s_625306c43a65f2::t_848d4d3b44e98f 39,43-44,49-50
+src/styles/variables.scss
+  s_625306c43a65f2::t_3e382661d4aac5 789-792
+src/packages/textarea/demos/h5/demo9.tsx
+  s_625306c43a65f2::t_9a0c3534dc5acc 2,5-21
+src/packages/textarea/textarea.tsx
+  s_625306c43a65f2::t_721a73e4f7e157 167-168
+  s_625306c43a65f2::t_f564c5ded90b75 109-111
+  s_625306c43a65f2::t_69c41a06b8f2a6 54
+  s_e2f8d64efa884c::t_1c8d36ae83632f 95-98,145
+  s_625306c43a65f2::t_a2427cb3b04a6e 26
+  s_625306c43a65f2::t_98fff947195a2d 166
+src/packages/textarea/__test__/textarea.taro.spec.tsx
+  s_e2f8d64efa884c::t_c9178911f7a1ae 17-21,35-36
+  s_e2f8d64efa884c::t_4718789a38eabc 26-31
+  s_e2f8d64efa884c::t_cfc683e6840608 1-16,22-25,32-34,37-71
+src/packages/textarea/doc.taro.md
+  s_625306c43a65f2::t_cf546fdde8e9cd 133
+  s_e2f8d64efa884c::t_5f58e2371cf55d 98,135
+  s_625306c43a65f2::t_c2765d2913930e 103
+  s_625306c43a65f2::t_5ce7552488cc01 77-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "7ad0f5e5d171672d801f58385f3f9f948489955b",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_625306c43a65f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78eb1e4f-6bd6-4111-a2bc-c5880e4f234e",
+        "model": "GLM-5.3-Local-joybuilder"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    },
+    "s_e2f8d64efa884c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d2ca-7a48-79c1-a1a4-242f8c261db8",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
