@@ -1,0 +1,44 @@
+src/packages/input/demos/taro/demo7.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/demos/taro/demo17.tsx
+  s_72f38d829b6a06::t_4f23319c592170 1,8,10
+  s_72f38d829b6a06::t_97bd58197485d9 2,12
+src/packages/input/demos/taro/demo9.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 15
+src/packages/input/demos/h5/demo8.tsx
+  h_f6446f4db74ffc 11
+src/packages/input/demos/h5/demo9.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 12
+src/packages/input/demos/h5/demo7.tsx
+  s_72f38d829b6a06::t_2c30301f67a7ad 8
+src/packages/input/demos/taro/demo8.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/demos/h5/demo17.tsx
+  s_72f38d829b6a06::t_4f23319c592170 1,8,10
+  s_72f38d829b6a06::t_97bd58197485d9 2,12
+src/packages/input/demos/taro/demo13.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/demos/h5/demo13.tsx
+  h_f6446f4db74ffc 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "3d1268ba929095f092d316ca65abe52e3d6035c3",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_72f38d829b6a06": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1256d-8cdc-7cb0-abfe-c872341ee2a9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
