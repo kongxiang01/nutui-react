@@ -1,0 +1,60 @@
+src/packages/input/demos/h5/demo8.tsx
+  h_f6446f4db74ffc 11
+src/packages/input/demos/taro/demo7.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/demos/h5/demo15.tsx
+  s_72f38d829b6a06::t_f2e5af8eb938b0 2
+  s_72f38d829b6a06::t_17866a4a3f2738 6
+src/packages/input/demos/h5/demo9.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 12
+src/packages/input/demos/taro/demo16.tsx
+  s_72f38d829b6a06::t_f2e5af8eb938b0 2,6-10
+  s_72f38d829b6a06::t_4459b7e7a57de1 13
+src/packages/input/demos/taro/demo8.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/input.taro.tsx
+  s_72f38d829b6a06::t_ea9e5a0faf37bf 228-240
+src/packages/input/demos/taro/demo9.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 15
+src/packages/input/__test__/input.spec.tsx
+  s_72f38d829b6a06::t_bac4956016b63c 286-288,293-295,298,300,302-304,306-310
+src/packages/input/demos/h5/demo13.tsx
+  h_f6446f4db74ffc 11
+src/packages/input/demos/h5/demo7.tsx
+  s_72f38d829b6a06::t_2c30301f67a7ad 8
+src/packages/input/demos/taro/demo15.tsx
+  s_72f38d829b6a06::t_f2e5af8eb938b0 2
+  s_72f38d829b6a06::t_17866a4a3f2738 6
+src/packages/input/demos/h5/demo16.tsx
+  s_72f38d829b6a06::t_f2e5af8eb938b0 2,6-10
+  s_72f38d829b6a06::t_4459b7e7a57de1 13
+src/packages/input/demo.tsx
+  s_72f38d829b6a06::t_4459b7e7a57de1 96
+src/packages/input/input.tsx
+  s_72f38d829b6a06::t_fb40863eb11e7c 197,213
+src/packages/input/demos/taro/demo13.tsx
+  s_72f38d829b6a06::t_f085f0962ca4f5 14
+src/packages/input/demo.taro.tsx
+  s_72f38d829b6a06::t_4459b7e7a57de1 140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0604165fcfe44f9f75cc6424814fc72c5231f7b1",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_72f38d829b6a06": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1256d-8cdc-7cb0-abfe-c872341ee2a9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
