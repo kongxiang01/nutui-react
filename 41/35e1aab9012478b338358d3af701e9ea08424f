@@ -1,0 +1,82 @@
+src/packages/input/demos/taro/demo3.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7,13
+src/packages/input/demos/h5/demo16.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-12
+src/packages/input/demos/h5/demo1.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,10
+src/packages/input/demos/h5/demo12.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7,9
+src/packages/input/demos/taro/demo14.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,14
+src/packages/input/demos/taro/demo9.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,9,13,15-16,19-36,38
+src/packages/input/demos/h5/demo7.tsx
+  s_95ccd6d23a5905::t_094142f8717d9d 9-23
+  s_95ccd6d23a5905::t_e6eaa6f73b5f2b 2,7-8,24-25
+src/packages/input/demos/h5/demo8.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-23,25
+src/packages/input/demos/h5/demo11.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/taro/demo11.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/taro/demo16.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-12
+src/packages/input/demos/taro/demo2.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,8
+src/packages/input/demos/taro/demo8.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 3,8,11-15,18-23,25,28-36,38
+src/packages/input/demos/taro/demo5.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/h5/demo10.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-16
+src/packages/input/demos/taro/demo12.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,8
+src/packages/input/demos/h5/demo13.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-25,27
+src/packages/input/demos/taro/demo1.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,10
+src/packages/input/demos/taro/demo13.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,8,12,14-15,18-36,38
+src/packages/input/demos/h5/demo14.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,14
+src/packages/input/demos/h5/demo6.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-12
+src/packages/input/demos/h5/demo15.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/taro/demo6.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-12
+src/packages/input/demos/taro/demo7.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 3,8-15,18-36
+src/packages/input/demos/h5/demo4.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-13
+src/packages/input/demos/h5/demo9.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,8,10-15,17-29,31
+src/packages/input/demos/taro/demo4.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-13
+src/packages/input/demos/taro/demo15.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/h5/demo3.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7,13
+src/packages/input/demos/h5/demo5.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6-11
+src/packages/input/demos/taro/demo10.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,7-16
+src/packages/input/demos/h5/demo2.tsx
+  s_95ccd6d23a5905::t_b252496539d8cc 2,6,8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4135e1aab9012478b338358d3af701e9ea08424f",
+  "prompts": {},
+  "sessions": {
+    "s_95ccd6d23a5905": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15451-00b5-7001-a62e-3821851e5f23",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
