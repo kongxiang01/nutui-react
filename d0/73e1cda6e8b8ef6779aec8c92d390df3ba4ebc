@@ -1,0 +1,14 @@
+src/packages/tag/tag.scss
+  h_f6446f4db74ffc 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d073e1cda6e8b8ef6779aec8c92d390df3ba4ebc",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
