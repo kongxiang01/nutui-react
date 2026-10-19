@@ -1,0 +1,40 @@
+src/packages/input/demos/taro/demo7.tsx
+  h_f6446f4db74ffc 14
+src/packages/input/demos/taro/demo8.tsx
+  h_f6446f4db74ffc 14
+src/packages/input/demos/taro/demo9.tsx
+  s_96f41a7f61e012::t_d1a37dfe5c80c0 15
+src/packages/input/demos/h5/demo8.tsx
+  h_f6446f4db74ffc 11
+src/packages/input/demos/taro/demo13.tsx
+  s_96f41a7f61e012::t_5d7dc0ceb79f20 14
+src/packages/input/demos/h5/demo7.tsx
+  h_f6446f4db74ffc 8,16
+src/styles/theme-default.scss
+  h_f6446f4db74ffc 72
+src/packages/input/demos/h5/demo13.tsx
+  h_f6446f4db74ffc 11
+src/packages/input/demos/h5/demo9.tsx
+  h_f6446f4db74ffc 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b7e3f7029dfb6cb04d3164de0e63b81061cf6253",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_96f41a7f61e012": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "629276d6-a664-4e8b-8b60-9bc3765abae5",
+        "model": "kimi-k3"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
