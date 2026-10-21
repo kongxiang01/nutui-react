@@ -1,0 +1,26 @@
+src/packages/searchbar/demos/h5/demo1.tsx
+  s_cdcce98c4f911d::t_643512419f7884 20,38
+src/packages/searchbar/demos/taro/demo1.tsx
+  s_cdcce98c4f911d::t_643512419f7884 21,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d2a9dbe3a9804f1ead2dab140a4f6f4cd7ba4ff7",
+  "prompts": {},
+  "humans": {
+    "h_f6446f4db74ffc": {
+      "author": "kongxiang01 <1011265301@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_cdcce98c4f911d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15d26-c469-75d2-98ab-5e3ae7af4110",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
+}
