@@ -1,7 +1,25 @@
+src/packages/searchbar/doc.taro.md
+  s_6c110ca8039246::t_72c33f67eb446e 125,137-140,144-145,151-152,156,160-166,181,188,191
+src/packages/searchbar/doc.zh-TW.md
+  s_6c110ca8039246::t_72c33f67eb446e 103,113,123,125,137-138,142-143,149-150,154,158,162,164,179,186,189
+src/packages/searchbar/doc.en-US.md
+  s_6c110ca8039246::t_72c33f67eb446e 125,137-138,142-143,149-150,157,161,163,175-176,178-179,183,186,189
+src/packages/searchbar/doc.md
+  s_6c110ca8039246::t_72c33f67eb446e 123,135-136,140-141,147-148,152,156,160,162,177,184,187
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.5.7",
   "base_commit_sha": "85202e791dde5d1bef9dac34ed2635f1d723bb10",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_6c110ca8039246": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13990-9a85-7612-863f-1b56be486052",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "kongxiang01 <1011265301@qq.com>"
+    }
+  }
 }
